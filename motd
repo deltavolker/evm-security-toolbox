@@ -1,0 +1,24 @@
+
+░█▀▀░█░█░█▄█░░░█▀▀░█▀▀░█▀▀░█░█░█▀▄░▀█▀░▀█▀░█░█░░░▀█▀░█▀█░█▀█░█░░░█▀▄░█▀█░█░█
+░█▀▀░▀▄▀░█░█░░░▀▀█░█▀▀░█░░░█░█░█▀▄░░█░░░█░░░█░░░░░█░░█░█░█░█░█░░░█▀▄░█░█░▄▀▄
+░▀▀▀░░▀░░▀░▀░░░▀▀▀░▀▀▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░░▀░░░▀░░░░░▀░░▀▀▀░▀▀▀░▀▀▀░▀▀░░▀▀▀░▀░▀
+
+Security Tools & Resources Installed :
+
+Echidna : https://github.com/crytic/echidna
+Etheno : https://github.com/crytic/etheno
+Manticore : https://github.com/trailofbits/manticore
+Slither : https://github.com/crytic/slither
+Rattle : https://github.com/crytic/rattle
+Not So Smart Contracts : https://github.com/crytic/not-so-smart-contracts
+
+New Tools & Resoureces Installed : 
+
+Oyente : https://github.com/enzymefinance/oyente
+Mythril : https://github.com/ConsenSys/mythril
+Octopus : https://github.com/pventuzelo/octopus
+Securify v2 : https://github.com/eth-sri/securify2
+
+
+Use `solc-select use {version}` to switch between different versions of `solc`
+
